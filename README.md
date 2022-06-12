@@ -9,7 +9,7 @@
 <br/>
 <p>
   👋Welcome to my Page! <br/>
-  Hello, I am Sang-yoon who is growing up working as a web developer <br/>
+  Hello, I am SangYun who is growing up working as a web developer <br/>
   I'm curious about all the technologies, but I'm mainly focused on server and DB technologies <br/>
   and I want to be a backend developer:fire:
 </p>
