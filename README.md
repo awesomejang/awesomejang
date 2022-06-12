@@ -1,6 +1,6 @@
 <!--<h2>👋 Welcome to my Page!</h2>-->
 ### :v: Nice way to meet me
-<p dir="auto">
+<p>
   <a href="https://juinor.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-3776AB?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
