@@ -12,7 +12,6 @@
   Hello, I am SangYun who is growing up working as a web developer <br/>
   I'm curious about all the technologies, but I'm mainly focused on server and DB technologies <br/>
   and I want to be a backend developer:fire:
-  
 </p>
 <p>
   :muscle: I try to grow into a development where I can communicate and share knowledge with many people
@@ -23,9 +22,14 @@
 
   __Backend Skills__ </br>
     <img src="https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>    
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white"/>    
   __DB Skills__ </br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
@@ -41,10 +45,12 @@
   <img src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>    
 <br/>
+<!--
 <h2> I’m currently learning🌱 </h2>
 <p>  
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </p>
+-->
 <!--
 Here are some ideas to get you started:
 
